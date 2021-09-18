@@ -1,21 +1,20 @@
 :brazil:
 
-Objetivo:	Sistema de LED simulando cruzamento de mão dupla. Após 10 execuções, o sistema entra em atenção com Amarelo Piscante
-Autor: 		Johnny Meneses [bilbo_vader@outlook.com]
-Lista de Materiais 
- [1]	Arduino Uno R3
- [4]	LED's cor vermelha
- [4]	LED's cor amarela
- [4]	LED's cor verde
- [12]220 Ω Resistor
+Objetivo:	Sistema de LED simulando cruzamento de mão dupla. Após 10 execuções, o sistema entra em atenção com Amarelo Piscante  
+Autor: 		Johnny Meneses [bilbo_vader@outlook.com]  
+Lista de Materiais   
+ [1]	Arduino Uno R3  
+ [4]	LED's cor vermelha  
+ [4]	LED's cor amarela  
+ [4]	LED's cor verde  
+ [12]220 Ω Resistor  
  
  
 
 :us:
-/*=============================================================================
- |    	Autor:         Johnny Meneses [bilbo_vader@outlook.com]
- |    	Descrição:    Sistema de LED simulando cruzamento de mão dupla. Após 10 execuções, o sistema entra em atenção com Amarelo Piscante
- |		Lista:
+Goal: LED system simulating two-way crossing. After 10 runs, the system comes to attention with Flashing Yellow
+Author: Johnny Meneses [bilbo_vader@outlook.com]
+List of materials 
                         [1]	Arduino Uno R3
                         [4]	Red LED
                         [4]	Yellow LED
